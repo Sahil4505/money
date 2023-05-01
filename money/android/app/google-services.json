@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982517117551",
+    "project_id": "money-expense-manager-948d1",
+    "storage_bucket": "money-expense-manager-948d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982517117551:android:691925a14310eec570d39a",
+        "android_client_info": {
+          "package_name": "com.example.money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982517117551-vuqk27j5281q12nf8noor19e5v75fc9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC50e8pjD13ej9KRNAbqAbkI4lp4JH6mBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982517117551-vuqk27j5281q12nf8noor19e5v75fc9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
